@@ -15,6 +15,8 @@ The repository is organized into the following sections:
 - **Stacks and Queues:** Classic stack and queue problems along with their implementations.
 - **Trees and Graphs:** Traversal algorithms, shortest path problems, and more.
 - **Sorting and Searching:** Implementation of common sorting algorithms and search techniques.
+- **Graph Algorithms:** Detailed implementations of graph data structures (like adjacency lists), fundamental traversal algorithms (BFS, DFS), and solutions to common graph-based LeetCode problems. (See `9.Graph/README.md`)
+- **Dijkstra's Algorithm:** A focused look at Dijkstra's shortest path algorithm, including its implementation and application to relevant LeetCode problems. (See `10.DijkstraAlgorithm/README.md`)
 - **Dynamic Programming:** Problems that can be solved using dynamic programming techniques.
 - **Miscellaneous:** Other important problems and concepts that don't fit into the above categories.
 
